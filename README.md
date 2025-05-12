@@ -18,7 +18,7 @@ Pillow
 
 Google Colab (for image upload and display)
 
-🚀 Getting Started 📁 Clone the Repository bash Copy Edit git clone https://github.com/SriAbhirami/Underwater-Object-detection-of-marine-study-using-Open-CV.git cd Underwater-Object-detection-of-marine-study-using-Open-CV 🔧 Install Dependencies bash Copy Edit pip install opencv-python numpy pillow 💡 Run the script in Google Colab for built-in image upload and display support.
+🚀 Getting Started 📁 Clone the Repository bash Copy Edit git clone https://github.com/Shreya492004/Underwater-Object-Detection-Of-Marine-Study-Using-Open-cv.git cd Underwater-Object-detection-of-marine-study-using-Open-CV 🔧 Install Dependencies bash Copy Edit pip install opencv-python numpy pillow 💡 Run the script in Google Colab for built-in image upload and display support.
 
 🖼 Usage Upload an underwater image when prompted.
 
